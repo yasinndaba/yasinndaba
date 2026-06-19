@@ -16,8 +16,8 @@ Right now, I spend most of my time in labs and virtual setups trying to understa
 
 ## Certifications I’m working on 📚
 
-* SC-900 (Microsoft Security Basics)
-* SC-200 (SOC and Threat Response)
+* SC-900 (Security, Compliance, and Identity Fundamentals)
+* SC-200 (Security Operations Analyst certification)
 * CompTIA Security+
 
 I’m using these as a foundation while I build hands-on skills alongside them.
